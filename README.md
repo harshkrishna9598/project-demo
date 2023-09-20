@@ -1,2 +1,3 @@
 # project-demo
-This is my first project in css
+This is my first project in Git Repository
+Author-Harsh Kushwaha
